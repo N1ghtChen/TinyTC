@@ -1,0 +1,9 @@
+#base
+pandas
+numpy
+
+#nlp
+nltk
+
+#crawler
+scrapy
