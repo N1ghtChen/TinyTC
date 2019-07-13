@@ -14,4 +14,5 @@ class WpagespiderItem(Item):
     name = Field()
     description = Field()
     url = Field()
-    pass
+    type = Field()
+
