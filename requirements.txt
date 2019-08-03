@@ -7,3 +7,6 @@ nltk
 
 #crawler
 scrapy
+
+#simhash
+simhash

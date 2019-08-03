@@ -3,11 +3,11 @@ import scrapy
 
 
 class WpageSpider(scrapy.spiders):
-    name = "webpage"
+    name = "Wpage"
     allow_domains = []
     start_urls = ()
 
-    def __init__(self):
+    def start_requests(self):
         pass
 
     def parse(self, response):
